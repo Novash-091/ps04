@@ -86,7 +86,7 @@ Measured on the real app in a browser, on a CPU-only laptop. Methods and caveats
 ## Quick start
 
 ```bash
-git clone https://github.com/Yash-041/HCare.git && cd HCare
+git clone https://github.com/Novash-091/HCare.git && cd HCare
 docker compose up -d --build                     # API on :8000 + PostgreSQL
 cd frontend && npm install && npm run build && npx vite preview   # app on http://localhost:4173
 ```
